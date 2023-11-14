@@ -18,4 +18,7 @@
 
 # Manifest file 
   <uses-permission android:name="android.permission.INTERNET"/>
+
+# View Code 
+  change branch to master to access the code
   
